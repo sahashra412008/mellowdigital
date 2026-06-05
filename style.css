@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MellowDigital | Premium Video Editing & Production</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">MellowDigital</div>
+        <nav>
+            <a href="#portfolio">Our Portfolio</a>
+            <a href="#bookings" class="btn-nav">Book a Slot</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>We Turn Raw Footage Into Elegant Cinematic Memories</h1>
+        <p>Specializing in high-quality editing for Weddings, Birthdays, House Warmings, and Special Events.</p>
+        <a href="#portfolio" class="btn-main">View Our Demo Work</a>
+    </section>
+
+    <section id="portfolio" class="portfolio-section">
+        <h2>Our Demo Work Portfolio</h2>
+        <p>Select a category below to see our premium high-quality styles.</p>
+        
+        <div class="video-grid">
+            </div>
+    </section>
+
+</body>
+</html>
